@@ -31,7 +31,7 @@ My current focus is mastering **React, Next.js, Tailwind**, and **Web3** while p
 ---
 
 ### 🌍 Connect with Me
-- 💼 **linkedin.com/in/samlovv**
+- 💼 **https://linkedin.com/in/samlovv**
 - 🧠 [Portfolio](#) *(in progress)*  
 - 📧 **lovvsam@gmail.com**  
 
