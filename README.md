@@ -1,44 +1,52 @@
-# 👋 Hey, I'm Samandar!
+# 👋 Hey, I'm Samandar
 
-🚀 **Web Developer | Future AI & Robotics Engineer | Athlete**
+💻 **Web Developer | Creator | Athlete**
 
-I'm passionate about building the future through technology — from web development to artificial intelligence and robotics.  
-My current focus is mastering **React, Next.js, Tailwind**, and **Web3** while preparing to dive deep into **AI systems** and **robotics engineering**.
-
----
-
-### 🧠 What I'm Working On
-- Building modern web apps with **React + Next.js**
-- Preparing for my long-term goal: creating an **autonomous combat robot** 🤖
-- Exploring **AI models** and neural networks to understand intelligence itself
+I build digital experiences with precision, discipline, and clean design.  
+My focus is on crafting fast, modern, and scalable web applications using **React**, **Next.js**, and **TailwindCSS** — while constantly refining both my code and mindset.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Mindset
+> “Mastery is built through discipline, not motivation.”
+
+Every line of code, every rep in the gym — it’s all about getting sharper, stronger, and better.  
+I see development not just as work, but as **a craft** — a reflection of patience and control.
+
+---
+
+### ⚙️ Tech Stack
 **Languages:** JavaScript, TypeScript, Python, HTML, CSS  
 **Frontend:** React, Next.js, TailwindCSS, GSAP  
 **Backend:** Node.js (learning), Express (basic)  
-**Other:** Git, Docker (beginner)
+**Tools:** Git, Docker (beginner), VS Code, Figma  
+
+---
+
+### 🔥 Current Focus
+- Pushing my limits in **frontend performance and UI animation**  
+- Learning **backend architecture** to become a full-stack developer  
+- Creating side projects that blend **function, speed, and style**
 
 ---
 
 ### 🏋️ About Me
-- Athlete & disciplined learner — I train **6 days a week**  
-- Inspired by **Toji Fushiguro** & **David Laid**’s mindset  
-- Following my life mission: **“Surpass Elon Musk through technology.”**  
-- Currently studying and preparing for **AI & Robotics (2025 start)**
+- Train **6 days a week**, focused on strength & physique  
+- Value **discipline over comfort**  
+- Believe that consistency is the real superpower  
+- Live by one rule: **“Never stay average.”**
 
 ---
 
 ### 🌍 Connect with Me
-- 💼 **https://linkedin.com/in/samlovv**
-- 🧠 [Portfolio](#) *(in progress)*  
-- 📧 **lovvsam@gmail.com**  
+- 💼 **https://www.linkedin.com/in/samlovv**
+- 🌐 [Portfolio](#) *(in progress)*  
+- 📧 **lovvsam@gmail.com**
 
 ---
 
 ### ⚡ Fun Fact
-I believe that **strength + intelligence = true freedom**.  
-Let’s build something legendary.
+When I code, I treat it like training —  
+control, flow, and constant improvement.
 
 ---
