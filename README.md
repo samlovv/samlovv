@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Samandar
+# 👋 Hey, I'm Sam
 
 💻 **Web Developer | Creator | Athlete**
 
